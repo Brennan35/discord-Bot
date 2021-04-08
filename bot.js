@@ -18,6 +18,6 @@ client.once('ready', () => {
 
 
 
-client.login('ODI5NDg4MzAzMDc3NzIwMDY1.YG43Lg.g0F-Ka-f3oNgwYIym7PleKKvxPw')
+client.login('token')
 
 
